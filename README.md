@@ -11,6 +11,7 @@ ____
 
 ## getAlphaSuggestions
 * Extends this query with alphabet components, making 25 requests (one for each letter of the alphabet) which get up to 10 results each for each alphabet character. There is a built in delay which causes this process to take about 30 seconds to complete.
+
 ____
 
 ## These requests count against the total number of external API requests you are allowed per day (20K for most accounts).
