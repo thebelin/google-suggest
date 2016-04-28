@@ -4,6 +4,8 @@ This package has supporting files for a presentation on how to use the Google Au
 suggestions to derive pertinent keywords from a simple search.
 
 Google's autocomplete feature is a gold mine of keywords and marketing terms. These keywords and terms are suggested to their users via an API. By tapping into this API and sending it requests for auto-completion which are related to your chosen search term, you can find many related search phrases which will probably be used by those searching for content.
+
+*source code is provided in [google-suggest.js](/thebelin/google-suggest/raw/master/google-select.js)*
 ____
 
 ## getSuggestions:
